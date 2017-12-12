@@ -14,6 +14,8 @@ import java.util.Scanner;
  */
 
 //Comentari Xavier.
+//Aquí fariem els canvis necessari. Una vegada fets els canvis hem de fer un commit de la versio
+//Una vegada fet el commit, el feim en local, farem un push dels fitxers canviats cap al repositori
 public class comptardies {
     public static int[] data1=new int[3];
     public static int[] data2=new int[3];
