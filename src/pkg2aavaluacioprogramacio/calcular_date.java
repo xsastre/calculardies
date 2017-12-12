@@ -9,7 +9,7 @@ import java.util.Scanner;
 import java.util.GregorianCalendar;
 /**
  *
- * @author xavier
+ * @author xavier 2017
  */
 public class calcular_date {
     
