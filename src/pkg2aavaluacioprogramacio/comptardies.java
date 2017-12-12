@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author xavier 2017
+ * @author xavier desembre 2017
  */
 
 public class comptardies {
