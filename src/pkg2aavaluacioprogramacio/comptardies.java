@@ -13,6 +13,7 @@ import java.util.Scanner;
  * @author xavier desembre 2017
  */
 
+//Comentari Xavier
 public class comptardies {
     public static int[] data1=new int[3];
     public static int[] data2=new int[3];
