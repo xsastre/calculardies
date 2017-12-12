@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author xavier desembre 2017
+ * @author xavier desembre 2017 Ok 12/12/2017
  */
 
 //Comentari Xavier.
