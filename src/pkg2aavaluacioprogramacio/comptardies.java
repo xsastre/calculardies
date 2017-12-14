@@ -51,7 +51,7 @@ public class comptardies {
                     comptardies.data1[2]=datainicial[2];
                     comptardies.data1[1]=datainicial[1];
                     comptardies.data1[0]=datainicial[0];
-            } else {
+            } else { //Date
                     comptardies.data2[2]=datainicial[2];
                     comptardies.data2[1]=datainicial[1];
                     comptardies.data2[0]=datainicial[0];
