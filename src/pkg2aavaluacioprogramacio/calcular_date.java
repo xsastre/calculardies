@@ -51,6 +51,7 @@ public class calcular_date {
             }
         }
         return dies_anys;
+        //ido un comentari perque si
     }
     public static int dies_mes(int mes){
         int[] mesos={31,28,31,30,31,30,31,31,30,31,30,31};
