@@ -26,6 +26,7 @@ public class calcular_date {
             return true;
         else
             return false;
+        //Esto es una prueba
     }
     public static int calcula_dies_anys_complets(int any_objectiu){
         int dies_anys=0;
