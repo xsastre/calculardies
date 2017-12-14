@@ -13,6 +13,9 @@ import java.util.Scanner;
  * @author xavier desembre 2017 Ok 12/12/2017
  */
 
+//Salva was Here.
+//Salva was here x2.
+//Salva was here x3.
 //Comentari Xavier.
 //Aquí fariem els canvis necessari. Una vegada fets els canvis hem de fer un commit de la versio
 //Una vegada fet el commit, el feim en local, farem un push dels fitxers canviats cap al repositori
