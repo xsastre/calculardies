@@ -38,7 +38,7 @@ public class comptardies {
         
         return data_int;
     }
-
+// Comentario de prueba para comprobación de cambios
     private static void ordena_dates(int[] datainicial, int[] dataobjectiu){
             int coeficient_datainicial=365*datainicial[2]+
                     30*datainicial[1]+1*datainicial[0];
