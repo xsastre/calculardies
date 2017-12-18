@@ -140,7 +140,7 @@ public class comptardies {
         int mes_objectiu=sc.nextInt();
         System.out.println("Any data objectiu:");
         int any_objectiu=sc.nextInt();*/
-        boolean error_format_data=false;
+        boolean error_format_data = false;
         int[] data_objectiu=new int[3];
         do {
             System.out.println("Introdueix data objectiu (dd/mm/aaaa)");
